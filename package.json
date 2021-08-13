@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "run": "cargo run --features bevy/dynamic",
+        "build": "cargo build",
+        "clean": "cargo clean"
+    }
+}
